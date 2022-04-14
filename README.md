@@ -1,13 +1,24 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-? ---> What are QR codes <--- ?
+![GitHub all releases](https://img.shields.io/github/downloads/Roman-jx/drupal_9_prj/total?style=centerme)
+![GitHub language count](https://img.shields.io/github/languages/count/Roman-jx/drupal_9_prj?style=centerme) 
+![GitHub top language](https://img.shields.io/github/languages/top/Roman-jx/drupal_9_prj?color=yellow&style=centerme) 
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Roman-jx/drupal_9_prj?style=centerme)
+![GitHub forks](https://img.shields.io/github/forks/Roman-jx/drupal_9_prj?style=socialstyle=centerme)
+![GitHub Repo stars](https://img.shields.io/github/stars/Roman-jx/drupal_9_prj?style=social&style=centerme)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+****
 
-A QR code is a type of barcode that can be read easily by a digital device and which stores information as a series of pixels in a square-shaped grid. QR codes are frequently used to track information about products in a supply chain and – because many smartphones have built-in QR readers – they are often used in marketing and advertising campaigns. More recently, they have played a key role in helping to trace coronavirus exposure and slow the spread of the virus.
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/g4jDE1JnpUNaw/giphy.gif?cid=ecf05e47mu86pydc61lpg0sl0upjp7v8qprl8gfrhj2c4q2v&rid=giphy.gif&ct=g" width="800"/>
+</div>
 
-The first QR code system was invented in 1994 by the Japanese company Denso Wave, a Toyota subsidiary. They needed a more accurate way to track vehicles and parts during the manufacturing process. To achieve this, they developed a type of barcode that could encode kanji, kana, and alphanumeric characters.
+****
 
-Standard barcodes can only be read in one direction – top to bottom. That means they can only store a small amount of information, usually in an alphanumeric format. But a QR code is read in two directions – top to bottom and right to left. This allows it to house significantly more data.
+🤖What are QR codes
 
+>A QR code is a type of barcode that can be read easily by a digital device and which stores information as a series of pixels in a square-shaped grid. QR >codes are frequently used to track information about products in a supply chain and – because many smartphones have built-in QR readers – they are often >used in marketing and advertising campaigns. More recently, they have played a key role in helping to trace coronavirus exposure and slow the spread of >the virus.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>The first QR code system was invented in 1994 by the Japanese company Denso Wave, a Toyota subsidiary. They needed a more accurate way to track vehicles >and parts during the manufacturing process. To achieve this, they developed a type of barcode that could encode kanji, kana, and alphanumeric characters.
+
+>Standard barcodes can only be read in one direction – top to bottom. That means they can only store a small amount of information, usually in an >alphanumeric format. But a QR code is read in two directions – top to bottom and right to left. This allows it to house significantly more data.
+
+****
