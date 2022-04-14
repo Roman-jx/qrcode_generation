@@ -1,9 +1,9 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Roman-jx/qrcode_generation?style=centerme)
-![GitHub language count](https://img.shields.io/github/languages/count/Roman-jx/qrcode_generation?style=centerme) 
-![GitHub top language](https://img.shields.io/github/languages/top/Roman-jx/qrcode_generation?color=yellow&style=centerme) 
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Roman-jx/qrcode_generation?style=centerme)
-![GitHub forks](https://img.shields.io/github/forks/Roman-jx/qrcode_generation?style=socialstyle=centerme)
-![GitHub Repo stars](https://img.shields.io/github/stars/Roman-jx/qrcode_generation?style=social&style=centerme)
+![GitHub all releases](https://img.shields.io/github/downloads/Roman-jx/ip_detection_and_create_python/total?style=centerme)
+![GitHub language count](https://img.shields.io/github/languages/count/Roman-jx/ip_detection_and_create_python?style=centerme) 
+![GitHub top language](https://img.shields.io/github/languages/top/Roman-jx/ip_detection_and_create_python?color=yellow&style=centerme) 
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Roman-jx/ip_detection_and_create_python?style=centerme)
+![GitHub forks](https://img.shields.io/github/forks/Roman-jx/ip_detection_and_create_python?style=socialstyle=centerme)
+![GitHub Repo stars](https://img.shields.io/github/stars/Roman-jx/ip_detection_and_create_python?style=social&style=centerme)
 
 ****
 
